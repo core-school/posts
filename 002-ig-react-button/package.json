@@ -1,0 +1,16 @@
+{
+  "name": "002-ig-react-button",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "coreof.tech",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.2.0"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
