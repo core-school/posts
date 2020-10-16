@@ -2,6 +2,7 @@
   <img src="https://www.coreof.tech/branding/logo.png" width="100" title="coreof.tech" alt="coreof.tech">
 </a>
 
+# Social Posts
 Coding examples seen at https://www.instagram.com/core.school/
 
 ## Python
